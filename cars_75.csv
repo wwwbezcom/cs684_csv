@@ -1,0 +1,32 @@
+Car,MPG,Cylinders,Displacement,Horsepower,Weight,Acceleration,Model,Origin
+STRING,DOUBLE,INT,DOUBLE,DOUBLE,DOUBLE,DOUBLE,INT,CAT
+Plymouth Valiant Custom,19,6,225,95,3264,16,75,US
+Chevrolet Nova,18,6,250,105,3459,16,75,US
+Mercury Monarch,15,6,250,72,3432,21,75,US
+Ford Maverick,15,6,250,72,3158,19.5,75,US
+Pontiac Catalina,16,8,400,170,4668,11.5,75,US
+Chevrolet Bel Air,15,8,350,145,4440,14,75,US
+Plymouth Grand Fury,16,8,318,150,4498,14.5,75,US
+Ford LTD,14,8,351,148,4657,13.5,75,US
+Buick Century,17,6,231,110,3907,21,75,US
+Chevrolete Chevelle Malibu,16,6,250,105,3897,18.5,75,US
+AMC Matador,15,6,258,110,3730,19,75,US
+Plymouth Fury,18,6,225,95,3785,19,75,US
+Buick Skyhawk,21,6,231,110,3039,15,75,US
+Chevrolet Monza 2+2,20,8,262,110,3221,13.5,75,US
+Ford Mustang II,13,8,302,129,3169,12,75,US
+Toyota Corolla,29,4,97,75,2171,16,75,Japan
+Ford Pinto,23,4,140,83,2639,17,75,US
+AMC Gremlin,20,6,232,100,2914,16,75,US
+Pontiac Astro,23,4,140,78,2592,18.5,75,US
+Toyota Corolla,24,4,134,96,2702,13.5,75,Japan
+Volkswagen Dasher,25,4,90,71,2223,16.5,75,Europe
+Datsun 710,24,4,119,97,2545,17,75,Japan
+Ford Pinto,18,6,171,97,2984,14.5,75,US
+Volkswagen Rabbit,29,4,90,70,1937,14,75,Europe
+AMC Pacer,19,6,232,90,3211,17,75,US
+Audi 100LS,23,4,115,95,2694,15,75,Europe
+Peugeot 504,23,4,120,88,2957,17,75,Europe
+Volvo 244DL,22,4,121,98,2945,14.5,75,Europe
+Saab 99LE,25,4,121,115,2671,13.5,75,Europe
+Honda Civic CVCC,33,4,91,53,1795,17.5,75,Japan
