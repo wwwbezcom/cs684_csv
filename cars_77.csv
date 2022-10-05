@@ -1,0 +1,30 @@
+Car,MPG,Cylinders,Displacement,Horsepower,Weight,Acceleration,Model,Origin
+STRING,DOUBLE,INT,DOUBLE,DOUBLE,DOUBLE,DOUBLE,INT,CAT
+Honda Accord CVCC,31.5,4,98,68,2045,18.5,77,Japan
+Buick Opel Isuzu Deluxe,30,4,111,80,2155,14.8,77,US
+Renault 5 GTL,36,4,79,58,1825,18.6,77,Europe
+Plymouth Arrow GS,25.5,4,122,96,2300,15.5,77,US
+Datsun F-10 Hatchback,33.5,4,85,70,1945,16.8,77,Japan
+Chevrolet Caprice Classic,17.5,8,305,145,3880,12.5,77,US
+Oldsmobile Cutlass Supreme,17,8,260,110,4060,19,77,US
+Dodge Monaco Brougham,15.5,8,318,145,4140,13.7,77,US
+Mercury Cougar Brougham,15,8,302,130,4295,14.9,77,US
+Chevrolet Concours,17.5,6,250,110,3520,16.4,77,US
+Buick Skylark,20.5,6,231,105,3425,16.9,77,US
+Plymouth Volare Custom,19,6,225,100,3630,17.7,77,US
+Ford Grenada,18.5,6,250,98,3525,19,77,US
+Pontiac Grand Prix LJ,16,8,400,180,4220,11.1,77,US
+Chevrolet Monte Carlo Landau,15.5,8,350,170,4165,11.4,77,US
+Chrysler Cordoba,15.5,8,400,190,4325,12.2,77,US
+Ford Thunderbird,16,8,351,149,4335,14.5,77,US
+Volkswagen Rabbit Custom,29,4,97,78,1940,14.5,77,Europe
+Pontiac Sunbird Coupe,24.5,4,151,88,2740,16,77,US
+Toyota Corolla Liftback,26,4,97,75,2265,18.2,77,Japan
+Ford Mustang II 2+2,25.5,4,140,89,2755,15.8,77,US
+Chevrolet Chevette,30.5,4,98,63,2051,17,77,US
+Dodge Colt m/m,33.5,4,98,83,2075,15.9,77,US
+Subaru DL,30,4,97,67,1985,16.4,77,Japan
+Volkswagen Dasher,30.5,4,97,78,2190,14.1,77,Europe
+Datsun 810,22,6,146,97,2815,14.5,77,Japan
+BMW 320i,21.5,4,121,110,2600,12.8,77,Europe
+Mazda RX-4,21.5,3,80,110,2720,13.5,77,Japan
